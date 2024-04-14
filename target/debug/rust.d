@@ -1,1 +1,1 @@
-/home/subho/Desktop/project/rust/rust/target/debug/rust: /home/subho/Desktop/project/rust/rust/src/main.rs
+/home/subho/Desktop/project/rust/target/debug/rust: /home/subho/Desktop/project/rust/src/main.rs
