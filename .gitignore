@@ -1,0 +1,43 @@
+# Compiled files
+*/target/
+**/*.rs.bk
+
+# Rust package manager files (Cargo)
+/Cargo.lock
+/.cargo/
+/Cargo.toml.orig
+
+# Build artifacts
+*.rlib
+*.dSYM/
+*.d
+
+# Test output
+/tests/output/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDEs and Editors
+.idea/
+/.vscode/
+/*.iml
+
+# Backup and temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.lnk
+
+# Other
+*.log
